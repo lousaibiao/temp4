@@ -1,0 +1,3 @@
+[submodule "temp3"]
+	path = temp3
+	url = git@github.com:lousaibiao/temp3.git
